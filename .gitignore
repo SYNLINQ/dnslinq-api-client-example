@@ -1,0 +1,15 @@
+/vendor
+/.idea
+.vagrant
+.env
+Homestead.json
+Homestead.yaml
+Vagrantfile
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
+laradock
+npm-debug.log
+after.sh
+aliases
+/composer.phar

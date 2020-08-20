@@ -1,0 +1,25 @@
+{
+  "name": "dnslinq/sample-php-api-client",
+  "description": "Sample PHP client for DNSLINQ API",
+  "keywords": [
+    "dnslinq",
+    "domains",
+    "api"
+  ],
+  "type": "project",
+  "require": {
+    "guzzlehttp/guzzle": "^6.5.5",
+    "nesbot/carbon": "^2.38",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "scripts": {
+    "api-test": [
+      "App\\Runner::apitest"
+    ]
+  }
+}
