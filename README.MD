@@ -27,7 +27,7 @@ $ curl -s http://getcomposer.org/installer | php
 
 ## Documentation
 
-The full API documentation is available on the [API website](https://api.dnslinq.de/api/docs).
+The full API documentation is available on the [API website](https://api.dnslinq.de/docs/reseller/api/).
 
 You can also generate a swagger scheme there in order to import the API definitions into software like Postman or go as far as generating a client library for your target programming language.
 
